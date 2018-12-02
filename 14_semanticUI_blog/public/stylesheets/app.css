@@ -1,0 +1,15 @@
+i.icon{
+    font-size: 2em;
+}
+
+.container.main{
+    margin: 7.0em;
+}
+
+.indexMargin{
+    margin: 7.0em;
+}
+
+#deletePost{
+    display: inline;
+}

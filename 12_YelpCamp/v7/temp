@@ -1,0 +1,2 @@
+  <figcaption class="figure-caption text-center"><h4><%=camp.name%></h4></figcaption>
+                                <figcaption class="figure-caption text-center"><a href="/campgrounds/<%=camp._id%>" class="btn btn-primary">More Info</a></figcaption>
